@@ -20,10 +20,10 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/agridagtarik/beta_Limited_ecommerceApp.git
    ```
 
-cd your-project
+cd beta_Limited_ecommerceApp
 
 # If using npm
 
